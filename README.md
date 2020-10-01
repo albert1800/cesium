@@ -2,13 +2,13 @@
 <img src="https://github.com/AnalyticalGraphicsInc/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="50%" />
 </p>
 
-Cesium is a WebGL virtual globe and map engine.
+Cesium is a WebGL virtual globe and map engine and we should read about CesiumJS.
 
 http://cesium.agi.com/
 
 ### Mission ###
 
-Our mission is to create the leading web-based globe and map for visualizing dynamic data.  We strive for the best possible performance, precision, visual quality, ease of use, platform support, and content.
+Our mission is to create the leading web-based globe and map for visualizing dynamic data.  We strive for the best possible performance, precision, visual quality, ease of use, platform support, and content in perfect way.
 
 ### License ###
 
